@@ -16,21 +16,13 @@ sv-print 是一个功能强大的可视化打印设计&打印解决方案：
 
 ## Install Skill
 
-### Step 1: Install the Skills CLI
-
-```bash
-npx skills add vercel-labs/agent-skills
-```
-
-### Step 2: Install sv-print Skill
-
 ```bash
 npx skills add https://github.com/CcSimple/skill-sv-print
 ```
 
 For more information about agent-skills, visit: [https://github.com/vercel-labs/skills](https://github.com/vercel-labs/skills)
 
-### Step 3: Use sv-print Skill
+### Use sv-print Skill
 
 eg: claude code skill sv-print
 

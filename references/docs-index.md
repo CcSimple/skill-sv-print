@@ -99,7 +99,7 @@
 | `/client/kf5qw14s/index.md` | HTTP API       | sv-print 打印客户端 HTTP API：47 个 REST 接口，涵盖打印机列表、默认打印机设置、禁用/启用、静默打印、模板管理、配置读写、打印日志查询与重打印。                     |
 | `/client/m6xo64g6/index.md` | Socket.IO 通信 | sv-print 打印客户端 Socket.IO 通信：17521 端口 token 鉴权，print/printerList/config 等全量事件说明，支持静默打印、渲染回执、IPP 网络打印与云端中转。               |
 | `/client/zonyn521/index.md` | MQTT 通信      | sv-print 打印客户端 MQTT 通信：内置 aedes broker（18521 端口），print/printerList/config 等全部 topic 与消息结构，支持 TCP 与 WebSocket 连接、动态 eventKey 回调。 |
-| `/client/ptohqoya/index.md` | 客户端更新日志 |                                                                                                                                                                    |
+| `/client/changelog.md`      | 客户端更新日志 |                                                                                                                                                                    |
 
 ### Others
 
